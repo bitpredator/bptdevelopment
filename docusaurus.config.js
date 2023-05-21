@@ -108,7 +108,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 2023 Bitpredator - All rights reserved`,
+        copyright: `Copyright © ${new Date().getFullYear()} Bitpredator - All rights reserved`,
       },
       prism: {
         theme: lightCodeTheme,
