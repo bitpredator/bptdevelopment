@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'BPT DEVELOPMENT',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Programming has never been easier',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
