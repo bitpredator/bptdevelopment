@@ -90,11 +90,11 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Empiretown repository',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Empiretown',
+                href: 'https://github.com/bitpredator/empiretown',
               },
             ],
           },
