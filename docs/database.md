@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Database Setup
 
 Offical Guide to installing and setting up a MYSQL database.

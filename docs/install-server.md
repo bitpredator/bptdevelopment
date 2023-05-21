@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Empiretown installation
 
 This is the official installation guide for Empiretown, Framework for FiveM roleplay servers
