@@ -1,0 +1,39 @@
+# es_extended
+
+es_extended is an RPG framework for FiveM, equipped with many extra resources to suit RPG servers.
+
+### 📝 Significant changes
+* Resolved Lua Lint CI Pipeline Issues: Fixed the problems with the Lua Lint CI pipeline to ensure smooth code analysis and validation.
+
+* Improved Client-side Event Security: Implemented enhanced security measures for client-side events responsible for receiving players' object data from the server. This focuses on strengthening the events to reduce potential vulnerabilities and abuses.
+
+### ℹ Information
+
+ESX is the leading framework, trusted By thousands of commmunitys for the heighest quality roleplay servers on FiveM, a GTA V (Grand Theft Auto) modification platform.
+
+# Features
+
+- Weight based inventory system
+- Weapon support, including support for accessories and tints
+- It supports different money accounts
+- It supports most languages
+
+# Requirements
+
+- [oxmysql](https://github.com/overextended/oxmysql/releases)
+- [spawnmanager]
+
+# Installation
+
+- Import `es_extended.sql` in your database
+- Configure your `server.cfg`
+
+```
+add_ace group.admin command allow # allow all commands
+add_ace group.admin command.quit deny # but don't allow quit
+add_ace resource.es_extended command.add_ace allow
+add_ace resource.es_extended command.add_principal allow
+add_ace resource.es_extended command.remove_principal allow
+add_ace resource.es_extended command.stop allow
+```
+
