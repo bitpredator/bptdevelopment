@@ -18,6 +18,9 @@ ESX is the leading framework, trusted By thousands of commmunitys for the heighe
 - It supports different money accounts
 - It supports most languages
 
+# Download
+- [es_extended](https://github.com/bitpredator/es_extended/releases)
+
 # Requirements
 
 - [oxmysql](https://github.com/overextended/oxmysql/releases)
