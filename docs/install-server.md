@@ -23,16 +23,19 @@ Download the Linux or Windows artifact files depending on your device (remember 
 - [Windows Artifact] https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
 - [Linux Artifact] https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/
 
-
 ## STEP 4)
+For the correct start of the server you will also need to download "cfx-server-data", these files must be inserted in the path Empiretown/resources
+- [cfx-server-data] https://github.com/bitpredator/cfx-server-data
+
+## STEP 5)
 Upload the sql file(database) in HeidiSQL. remember to start XAMPP and click on start MySQL.
 You will find the database in empiretown/server-data/[SQL]
 
-## STEP 5)
+## STEP 6)
 Use the "start.bat" file in "server-data" to start the server correctly (if you are on windows platform).
 Remember that Xampp will need to be started
 
-## STEP 6) 
+## STEP 7) 
 Now just double-click on start.bat to start your server
 
 ## NOTES
