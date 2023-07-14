@@ -60,7 +60,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'FiveM',
           },
           {
             href: 'https://github.com/bitpredator',
@@ -76,7 +76,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'FiveM',
                 to: '/docs/database',
               },
             ],

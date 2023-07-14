@@ -13,7 +13,6 @@ ESX is the leading framework, trusted By thousands of commmunitys for the heighe
 
 # Features
 
-- Weight based inventory system
 - Weapon support, including support for accessories and tints
 - It supports different money accounts
 - It supports most languages
@@ -24,7 +23,8 @@ ESX is the leading framework, trusted By thousands of commmunitys for the heighe
 # Requirements
 
 - [oxmysql](https://github.com/overextended/oxmysql/releases)
-- [spawnmanager]
+- [cfx-server-data](https://github.com/bitpredator/cfx-server-data)
+- [ox_inentory](https://github.com/overextended/ox_inventory)
 
 # Installation
 
