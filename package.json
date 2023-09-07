@@ -26,6 +26,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.4.1",
     "@tsconfig/docusaurus": "^1.0.5",
+    "eslint": "^8.48.0",
     "typescript": "^5.0.4"
   },
   "browserslist": {
