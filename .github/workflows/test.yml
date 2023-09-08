@@ -14,7 +14,7 @@ jobs:
           node-version: 16
 
       - name: Install dependencies
-        run: yarn ci
+        run: yarn test
 
       - name: Run ESLint
         run: yarn run lint
