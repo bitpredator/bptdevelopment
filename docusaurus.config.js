@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'BPT DEVELOPMENT',
   tagline: 'Programming has never been easier',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/icon.ico',
 
   // Set the production url of your site here
   url: 'https://bitpredator.github.io',
