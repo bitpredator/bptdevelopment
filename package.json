@@ -27,7 +27,7 @@
   "devDependencies": {
     "@babel/traverse": "^7.23.2",
     "@docusaurus/module-type-aliases": "^2.4.3",
-    "@tsconfig/docusaurus": "^1.0.5",
+    "@tsconfig/docusaurus": "^2.0.2",
     "typescript": "^5.0.4"
   },
   "browserslist": {
