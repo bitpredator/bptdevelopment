@@ -51,8 +51,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Home',
         items: [
@@ -72,46 +70,23 @@ const config = {
             label: 'Discord',
             position: 'right',
           },
+          {
+            href : 'https://github.com/bitpredator/empiretown',
+            label : 'Empiretown',
+            position: 'right',
+          },
         ],
       },
+
       footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'FiveM',
-                to: '/docs/database',
-              },
-            ],
-          },
-          {
-            title: 'Empiretown repository',
-            items: [
-              {
-                label: 'Empiretown',
-                href: 'https://github.com/bitpredator/empiretown',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/bitpredator',
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Bitpredator - All rights reserved`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    }),
+    }
+  ),
 };
 
 module.exports = config;
