@@ -11,3 +11,4 @@
 5. [package.json + yarn.lock]: chore: install plugin "docusaurus/plugin-content-docs" @bitpredator
 6. [package.json + yarn.lock + .eslintrc.js]: chore: install plugin "plugin-eslint" @bitpredator
 7. [docusaurus.config.js]: refactor: improve the site's homepage @bitpredator
+8. [path]: rearrange the file path @bitpredator

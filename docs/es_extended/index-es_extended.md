@@ -24,7 +24,7 @@ ESX is the leading framework, trusted By thousands of commmunitys for the heighe
 
 - [oxmysql](https://github.com/overextended/oxmysql/releases)
 - [cfx-server-data](https://github.com/bitpredator/cfx-server-data)
-- [ox_inentory](https://github.com/overextended/ox_inventory)
+- [ox_inventory](https://github.com/overextended/ox_inventory)
 
 # Installation
 
