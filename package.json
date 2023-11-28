@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@babel/traverse": "^7.23.2",
-    "@docusaurus/eslint-plugin": "^2.4.3",
+    "@docusaurus/eslint-plugin": "^3.0.0",
     "@docusaurus/module-type-aliases": "^2.4.3",
     "@tsconfig/docusaurus": "^2.0.2",
     "typescript": "^5.2.2"
