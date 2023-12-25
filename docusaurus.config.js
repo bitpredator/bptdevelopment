@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'BPT DEVELOPMENT',
   tagline: 'Programming has never been easier',
-  favicon: 'img/icon.ico',
+  favicon: 'https://cdn.discordapp.com/attachments/1081885857818087504/1188840550787461121/docusaurus.png?width=800&height=800',
 
   // Set the production url of your site here
   url: 'https://bitpredator.github.io',
@@ -58,7 +58,7 @@ const config = {
         title: 'HOMEPAGE',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'https://cdn.discordapp.com/attachments/1081885857818087504/1188840550787461121/docusaurus.png?width=800&height=800',
         },
         items: [
           {
