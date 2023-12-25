@@ -107,6 +107,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/bitpredator',
               },
+              {
+                label: 'Empiretown',
+                href: 'https://github.com/bitpredator/empiretown',
+              },
             ],
           },
         ],

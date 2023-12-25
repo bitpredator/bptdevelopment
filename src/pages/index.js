@@ -16,13 +16,6 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
       </div>
     </header>
   );
@@ -32,8 +25,9 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Homepage ${siteConfig.title}`}
+      description="The site will contain documentation and tutorials on the development of various programming languages,
+       documentation related to Empiretown (Framework for Fivem game servers) <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
