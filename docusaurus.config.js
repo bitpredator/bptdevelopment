@@ -1,8 +1,10 @@
 // @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+// `@type` JSDoc annotations allow editor autocompletion and type checking
+// (when paired with `@ts-check`).
+// There are various equivalent ways to declare your Docusaurus config.
+// See: https://docusaurus.io/docs/api/docusaurus-config
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -12,7 +14,6 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://bitpredator.github.io',
-  trailingSlash: false,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/bptdevelopment/',
@@ -23,11 +24,11 @@ const config = {
   projectName: 'bptdevelopment', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  // Even if you don't use internationalization, you can use this field to set
+  // useful metadata like html lang. For example, if your site is Chinese, you
+  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -39,10 +40,10 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: './sidebars.js',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: './src/css/custom.css',
         },
       }),
     ],
@@ -51,8 +52,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      // Replace with your project's social card
+      image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Home',
+        title: 'HOMEPAGE',
+        logo: {
+          alt: 'Logo',
+          src: 'img/logo.svg',
+        },
         items: [
           {
             type: 'docSidebar',
@@ -60,33 +67,56 @@ const config = {
             position: 'left',
             label: 'FiveM',
           },
+//          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/bitpredator',
             label: 'GitHub',
             position: 'right',
           },
-          {
-            href: 'https://discord.gg/ksGfNvDEfq',
-            label: 'Discord',
-            position: 'right',
-          },
-          {
-            href : 'https://github.com/bitpredator/empiretown',
-            label : 'Empiretown',
-            position: 'right',
-          },
         ],
       },
-
       footer: {
+        style: 'dark',
+        links: [
+          {
+            title: 'Docs',
+            items: [
+              {
+                label: 'FiveM',
+                to: '/docs/intro',
+              },
+            ],
+          },
+          {
+            title: 'Community',
+            items: [
+              {
+                label: 'Discord',
+                href: 'https://discord.gg/ksGfNvDEfq',
+              },
+            ],
+          },
+          {
+            title: 'More',
+            items: [
+//              {
+//                label: 'Blog',
+//                to: '/blog',
+//              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/bitpredator',
+              },
+            ],
+          },
+        ],
         copyright: `Copyright © ${new Date().getFullYear()} Bitpredator - All rights reserved`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
-    }
-  ),
+    }),
 };
 
-module.exports = config;
+export default config;
