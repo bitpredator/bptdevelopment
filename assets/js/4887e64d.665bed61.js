@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbptdevelopment=self.webpackChunkbptdevelopment||[]).push([[4967],{7788:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/bptdevelopment/blog/tags/facebook","allTagsPath":"/bptdevelopment/blog/tags","count":1,"unlisted":false}')}}]);

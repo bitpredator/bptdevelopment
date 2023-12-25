@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbptdevelopment=self.webpackChunkbptdevelopment||[]).push([[1233],{3918:e=>{e.exports=JSON.parse('{"permalink":"/bptdevelopment/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbptdevelopment=self.webpackChunkbptdevelopment||[]).push([[273],{1644:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/bptdevelopment/blog/tags/hola","allTagsPath":"/bptdevelopment/blog/tags","count":1,"unlisted":false}')}}]);
