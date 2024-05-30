@@ -56,12 +56,16 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'HOMEPAGE',
+        logo: {
+          alt: 'Logo',
+          src: 'https://cdn.discordapp.com/attachments/1081885857818087504/1188840550787461121/docusaurus.png?width=800&height=800',
+        },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'FiveM',
           },
 //          {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -78,7 +82,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'FiveM',
                 to: '/docs/intro',
               },
             ],
