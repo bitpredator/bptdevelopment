@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # es_extended
 
 es_extended is an RPG framework for FiveM, equipped with many extra resources to suit RPG servers.

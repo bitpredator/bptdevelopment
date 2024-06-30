@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # esx:getSharedObject Deprecation
 
 Hello! This Event has been in ESX for around 5 years and should no longer be used since we now have way better ways to import the ESX object into your script!
