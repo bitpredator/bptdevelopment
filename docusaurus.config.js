@@ -56,10 +56,6 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'HOMEPAGE',
-        logo: {
-          alt: 'Logo',
-          src: 'https://cdn.discordapp.com/attachments/1081885857818087504/1188840550787461121/docusaurus.png?width=800&height=800',
-        },
         items: [
           {
             type: 'docSidebar',
@@ -67,7 +63,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-//          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/bitpredator',
             label: 'GitHub',

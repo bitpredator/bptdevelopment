@@ -2,19 +2,19 @@
 sidebar_label: On Drink
 ---
 
-# bpt_basicneeds:onDrink
+**bpt_basicneeds:onDrink**
 
 ```lua
 AddEventHandler("bpt_basicneeds:onDrink", prop_name)
 ```
 
-## ⚠️⚠️ WARNING ⚠️⚠️
+# ⚠️⚠️ WARNING ⚠️⚠️
 
 This Event Is deprecated and has been changed! it is **NOT** recommended for use!
 
 Please Use [OnUse](./onuse.md) Instead!
 
-## Arguments
+# Arguments
 
 | Argument  | Data Type | Optional | Default Value       | Explanation                 |
 | --------- | --------- | -------- | ------------------- | --------------------------- |

@@ -1,17 +1,9 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+bitpredator:
+  name: Bitpredator
+  title: Owner
+  url: https://github.com/bitpredator
+  image_url: https://avatars.githubusercontent.com/u/67551273?s=400&u=2c8fc69e9b8da7ed3ceccde4dcf2674d9f0f04bb&v=4
+  socials:
+    github: bitpredator
+    discord: https://discord.gg/ksGfNvDEfq
+    twitch: https://www.twitch.tv/bitpredator
