@@ -1,5 +1,6 @@
 # REGOLAMENTO DI GIOCO
 - Regolamento FiveM per il server Empiretown in vigore dal 01/10/2024
+- Entrando nel server dichiari di aver letto e compreso il seguente regolamento e di assumerti ogni responsabilità del tuo eventuale comportamento scorretto
 
 # Anticheat
 - Nel caso in cui l'anticheat emetta un ban per rilevamento di trucchi non verrà rimosso, se non previa dimostrazione video da parte dell'utente in questione dove dimostra di non aver utilizzato nessuna forma di cheat.
@@ -54,5 +55,11 @@ In caso di bug è possibile segnalarlo tramite:
 * La punizione di questa regola funziona nel seguente modo:
 - Warn scritto con l'invito a non rifarlo;
 - Ban di 1 settimana nel caso si ripetesse più volte;
+
+# 4. Nomi Inappropriati:
+E' severamente vietato utilizzare nomi non realistici o nomi che fanno riferimento a personaggi politici o religiosi
+* La punizione di questa regola funziona nel seguente modo:
+- Perma ban sarà, in caso si desideri cambiare il nome sarà necessario richiedere assistenza Discord, nel caso in cui la richiesta di supporto sia valutata come richiesta Troll (sarà confermato il perma ban dal server di gioco e dal server discord senza possibilità di replica)
+
 
 *Questo regolamento potrà variare nel tempo*
