@@ -64,7 +64,8 @@ E' severamente vietato utilizzare nomi non realistici o nomi che fanno riferimen
 - Perma ban sarà, in caso si desideri cambiare il nome sarà necessario richiedere assistenza Discord, nel caso in cui la richiesta di supporto sia valutata come richiesta Troll (sarà confermato il perma ban dal server di gioco e dal server discord senza possibilità di replica)
 
 # 5. Inattività / Cambio lavoro
-Per garantire una buona esperienza di gioco e un modalità di gioco ben attiva affinchè tutti gli utententi possano svolgere al meglio i propri compiti è necessario chiarire alcuni punti:
+Per garantire una buona esperienza di gioco e un modalità di gioco ben attiva affinchè tutti gli utenti 
+possano svolgere al meglio i propri compiti è necessario chiarire alcuni punti:
 - In caso di inattività prolungata per oltre 30 giorni a partire dall'ultimo accesso effettuato, il vostro ruolo lavorativo se di rilevanza verrà rimosso senza prevviso.
 Esso sarà direttamente assegnato al vostro vice o alla persona con il grado più alto, prima di riavere il vostro lavoro con grado diverso dovrete attendere 90 giorni a partire dal vosto ultimo accesso, ovviamente dovrà esserci una costanza di gioco in questo arco di tempo.
 
