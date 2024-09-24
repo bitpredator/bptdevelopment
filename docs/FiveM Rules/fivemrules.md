@@ -5,6 +5,8 @@
 # Anticheat
 - Nel caso in cui l'anticheat emetta un ban per rilevamento di trucchi non verrà rimosso, se non previa dimostrazione video da parte dell'utente in questione dove dimostra di non aver utilizzato nessuna forma di cheat.
 
+- L'utilizzo delle VPN è severamente vietato, l'anticheat emetterà un ban (ci riserviamo il diritto di non rimuovere il ban in caso venga rilevata una vpn), nel caso si tratti di un errore potrai comunque richiedere assistenza in discord dimostrando di non aver nessun servizio VPN.
+
 # Vantaggi utenti VIP:
 - Gli utenti abbonati al canale twitch Bitpredator postranno usufruire di alcuni vantaggi, alcuni vantaggi verranno rimossi dopo lo scadere dell'abbonamento, questi vantaggi non saranno riscattabili dagli utenti che hanno ricevuto un abbonamento in regalo. Attenzione potrà essere scelto soltanto un vantaggio al mese.
 
@@ -60,6 +62,17 @@ In caso di bug è possibile segnalarlo tramite:
 E' severamente vietato utilizzare nomi non realistici o nomi che fanno riferimento a personaggi politici o religiosi
 * La punizione di questa regola funziona nel seguente modo:
 - Perma ban sarà, in caso si desideri cambiare il nome sarà necessario richiedere assistenza Discord, nel caso in cui la richiesta di supporto sia valutata come richiesta Troll (sarà confermato il perma ban dal server di gioco e dal server discord senza possibilità di replica)
+
+# 5. Inattività / Cambio lavoro
+Per garantire una buona esperienza di gioco e un modalità di gioco ben attiva affinchè tutti gli utententi possano svolgere al meglio i propri compiti è necessario chiarire alcuni punti:
+- In caso di inattività prolungata per oltre 30 giorni a partire dall'ultimo accesso effettuato, il vostro ruolo lavorativo se di rilevanza verrà rimosso senza prevviso.
+Esso sarà direttamente assegnato al vostro vice o alla persona con il grado più alto, prima di riavere il vostro lavoro con grado diverso dovrete attendere 90 giorni a partire dal vosto ultimo accesso, ovviamente dovrà esserci una costanza di gioco in questo arco di tempo.
+
+- Nel caso sappiate di essere inattivi per un certo l'asso di tempo sarà vostro compito organizzarvi con il vostro vice o chi farà le vostre veci per continuare a portare avanti la vostra attività senza recare fastidi ad altri utenti.
+
+- Richiedere di cambiare lavoro in maniera continua non è permesso, lo scopo del gioco è quella di portare avanti la storia del personaggio il più allungo possibile, sarà possibile cambiare lavoro 1 volta ogni 60 giorni, se desiderate cambiare lavoro prima di questo arco temporale dovrete portare il vostro personaggio di gioco al "PERMADEATH" ovvero morte definitiva del personaggio, attenzione sarà permesso farlo 1 volta ogni 120 giorni. (I Benefici VIP non saranno persi ad esempio VEICOLI, RUOLO, SALTA CODA, ABITAZIONI)
+
+- Nel caso sia rilevata un'attività prolungata per 6 mesi o più il vostro personaggio e tutto quello ad esso collegato verrà rimosso in maniera definitiva.
 
 
 *Questo regolamento potrà variare nel tempo*
