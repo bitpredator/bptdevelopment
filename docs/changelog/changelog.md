@@ -7,6 +7,8 @@
 - La vendita del pesce è stata impostata presso l'aquirente situato nella zona della discarica ad un prezzo minimo, sarò comunque venderlo ai gestori dei ristoranti.
 - Tutti i gradi lavorativi sono stati cambiati in lingua Italiana
 - Inseriti nuovi veicoli FDO, effettuate traduzioni mancanti
+- Chiuse le seguenti porte: Porte principali armeria, la maggior parte delle porte della centrale di polizia, chiusa la porta dell'ufficio del meccanico
+- Corretto il problema del conto alla rovescia per la rigenerazione del personaggio 
 
 # <center>CHANGELOG 1.0.0</center>
 
