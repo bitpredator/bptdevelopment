@@ -1,5 +1,16 @@
 # CHANGELOG SERVER FIVEM
 
+# <center>CHANGELOG 1.0.2</center>
+- Corretto il sistema di notifica, alcune volte l'icona non veniva visualizzata
+- Corretto il problema inerente alla scomparsa dei veicoli di proprietà se lasciati fuori dal garage
+- Gestione del random spawn ped e veicoli migliorata
+- Pannello per la scelta del personaggio configurato in lingua Italiana
+- Corretto il comando "say"
+- Rimosso il sottomenu delle animazioni dal menu F5, sostituito con un nuovo menu
+- Implementata la possibilità di spingere il veicolo soltanto quando è in avaria
+- Inserita la possibilità di aprire direttamente in gioco dei ticket di assistenza attraverso il comando /tickets , anche i membri non staff potranno aiutare la community
+- Aggiornamento per quanto riguarda l'utilizzo della fotocamera, cio' dovrebbe consentire delle migliori prestazioni
+
 # <center>CHANGELOG 1.0.1</center>
 
 - Effettuata una ricostruzione parziale lato client per la scuola guida per una migliore stabilità.
