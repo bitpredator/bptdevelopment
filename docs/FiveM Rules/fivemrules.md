@@ -70,10 +70,21 @@ possano svolgere al meglio i propri compiti è necessario chiarire alcuni punti:
 Esso sarà direttamente assegnato al vostro vice o alla persona con il grado più alto, prima di riavere il vostro lavoro con grado diverso dovrete attendere 90 giorni a partire dal vosto ultimo accesso, ovviamente dovrà esserci una costanza di gioco in questo arco di tempo.
 
 - Nel caso sappiate di essere inattivi per un certo l'asso di tempo sarà vostro compito organizzarvi con il vostro vice o chi farà le vostre veci per continuare a portare avanti la vostra attività senza recare fastidi ad altri utenti.
-
 - Richiedere di cambiare lavoro in maniera continua non è permesso, lo scopo del gioco è quella di portare avanti la storia del personaggio il più allungo possibile, sarà possibile cambiare lavoro 1 volta ogni 60 giorni, se desiderate cambiare lavoro prima di questo arco temporale dovrete portare il vostro personaggio di gioco al "PERMADEATH" ovvero morte definitiva del personaggio, attenzione sarà permesso farlo 1 volta ogni 120 giorni. (I Benefici VIP non saranno persi ad esempio VEICOLI, RUOLO, SALTA CODA, ABITAZIONI)
-
 - Nel caso sia rilevata un'attività prolungata per 6 mesi o più il vostro personaggio e tutto quello ad esso collegato verrà rimosso in maniera definitiva.
+
+# 6. Tempo di gioco
+- 30 minuti corrispondo a mezza giornata 
+- 1h reale corrisponde a un giorno di gioco 
+- 24H corrispondono ad un mese di gioco
+
+# 7. Rage Quit
+- Abbandonare il game durante un azione è severamente vietato.
+- Cosa vuol dire: quando un giocatore abbandona improvvisamente la partita perché frustrato o arrabbiato / non accetta la sconfitta.
+
+- Pena Ban
+- Il ban puo' variare da 2 ore fino a 7 giorni nel primo caso, fino a 30 giorni se si è recitivi
 
 
 *Questo regolamento potrà variare nel tempo*
+*Data ultimo aggiornamento 23/10/2024*
