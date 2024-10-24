@@ -18,7 +18,7 @@
 - Il meteo è stato impostato in stile Halloween per l'intera durata dell'evento
 - Introdotto nuovo Item "Torcia" acquistabile in armeria
 - Lo staff di supporto verrà mostrato con il proprio ruolo e colore anche in game
-
+- Inserite le decorazioni per l'evento di Halloween
 # <center>CHANGELOG 1.0.2</center>
 
 - Corretto il sistema di notifica, alcune volte l'icona non veniva visualizzata
