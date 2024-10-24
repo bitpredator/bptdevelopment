@@ -6,7 +6,8 @@
 - Migliorate le prestazioni del menu abbigliamento.
 - Schermata di caricamento modificata per il periodo di Halloween.
 - Fix lato Server il sistema monetario non farà differena tra lettere minuscole o maiuscole
-- Apportate delle modifiche Importanti al [core], diminuendo il carico di invio di dati. Inoltre la sincronizzazione è notevolmente migliorata riducendo i problemi di arresti anomali
+- Apportate delle modifiche Importanti al [core], diminuendo il carico di invio di dati.
+  Inoltre la sincronizzazione è notevolmente migliorata riducendo i problemi di arresti anomali
 - Corretta l'impossibilità per i medici di rianimare i giocatori
 - Introdotto l'Item Zucca per l'vento di Halloween.
 - Risolto problema con i permessi amministrativi di EasyAdmin
@@ -14,8 +15,9 @@
 - Aggiornato il sistema di generazione dei veicoli
 - Gestione dei pneumatici più reale
 - Aggiornato il sistema Streaming, la quale si occupa della gestione Texture e richiesta dei vari modelli
-- Il meteo è stato impostato in stile Halloween per l'intera durata dell'evvento
+- Il meteo è stato impostato in stile Halloween per l'intera durata dell'evento
 - Introdotto nuovo Item "Torcia" acquistabile in armeria
+- Lo staff di supporto verrà mostrato con il proprio ruolo e colore anche in game
 
 # <center>CHANGELOG 1.0.2</center>
 
