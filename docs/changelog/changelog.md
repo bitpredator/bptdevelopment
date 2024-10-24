@@ -1,6 +1,24 @@
 # CHANGELOG SERVER FIVEM
 
+# <center>CHANGELOG 1.0.3</center>
+
+- Risolto problema della falsa rilevazione della godmode.
+- Migliorate le prestazioni del menu abbigliamento.
+- Schermata di caricamento modificata per il periodo di Halloween.
+- Fix lato Server il sistema monetario non farà differena tra lettere minuscole o maiuscole
+- Apportate delle modifiche Importanti al [core], diminuendo il carico di invio di dati. Inoltre la sincronizzazione è notevolmente migliorata riducendo i problemi di arresti anomali
+- Corretta l'impossibilità per i medici di rianimare i giocatori
+- Introdotto l'Item Zucca per l'vento di Halloween.
+- Risolto problema con i permessi amministrativi di EasyAdmin
+- Aggiornato il sistema di collisione tra giocatori e veicoli
+- Aggiornato il sistema di generazione dei veicoli
+- Gestione dei pneumatici più reale
+- Aggiornato il sistema Streaming, la quale si occupa della gestione Texture e richiesta dei vari modelli
+- Il meteo è stato impostato in stile Halloween per l'intera durata dell'evvento
+- Introdotto nuovo Item "Torcia" acquistabile in armeria
+
 # <center>CHANGELOG 1.0.2</center>
+
 - Corretto il sistema di notifica, alcune volte l'icona non veniva visualizzata
 - Corretto il problema inerente alla scomparsa dei veicoli di proprietà se lasciati fuori dal garage
 - Gestione del random spawn ped e veicoli migliorata
@@ -33,7 +51,7 @@
 - I Menu Crafting dell'armeria e Import sono stati suddivisi per categoria
 - Cambiati i prezzi di vendita per quanto riguarda Smeraldi e Diamanti
 - Creato punto di acquisto veloce per gli item creati dall'import
-- Instrodotto il comando "say" (solo sviluppatore) per poter inviare direttamente messaggi al server dalla console di avvio
+- Introdotto il comando "say" (solo sviluppatore) per poter inviare direttamente messaggi al server dalla console di avvio
 - Rimossa mappa del porto e lavoro per la lavorazione del pesce, (la possibilità di pescare è rimasta). La lavorazione del pesce spetta direttamnte ai vari locoli e ristoranti
 - Aggiornata la descrizione del server
 - Aggiornate le immagini degli item dell'inventario e sistema crafting
