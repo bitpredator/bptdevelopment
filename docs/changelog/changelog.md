@@ -1,5 +1,11 @@
 # CHANGELOG SERVER FIVEM
 
+# <center>CHANGELOG 1.0.4</center>
+
+- Corretto veicolo mads14
+- Ottimizato il codice per i ticket in gioco.
+- Configurati dei permessi amministrativi per i Trial Helper
+
 # <center>CHANGELOG 1.0.3</center>
 
 - Risolto problema della falsa rilevazione della godmode.
@@ -19,6 +25,7 @@
 - Introdotto nuovo Item "Torcia" acquistabile in armeria
 - Lo staff di supporto verrà mostrato con il proprio ruolo e colore anche in game
 - Inserite le decorazioni per l'evento di Halloween
+
 # <center>CHANGELOG 1.0.2</center>
 
 - Corretto il sistema di notifica, alcune volte l'icona non veniva visualizzata
