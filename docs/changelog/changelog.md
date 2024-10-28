@@ -1,5 +1,11 @@
 # CHANGELOG SERVER FIVEM
 
+# <center>CHANGELOG 1.0.5</center>
+
+- Implementata per gli helper la funzione di gestione ticket in game,
+  tutti i nuovi aggiornamenti per i ticket di supporto saranno visibili in discord soltanto per lo staff di supporto.
+- È stato ridotto l'asse z per evitare che i veicoli vengano generati in aria dopo essere stati sequestrati.
+
 # <center>CHANGELOG 1.0.4</center>
 
 - Corretto veicolo mads14
