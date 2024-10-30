@@ -4,7 +4,9 @@
 
 - Implementata per gli helper la funzione di gestione ticket in game,
   tutti i nuovi aggiornamenti per i ticket di supporto saranno visibili in discord soltanto per lo staff di supporto.
-- È stato ridotto l'asse z per evitare che i veicoli vengano generati in aria dopo essere stati sequestrati.
+- Patch di sicurezza applicate
+- L'ospedale è stato trasferito in un nuovo punto.
+- Inseriti due punti di acquisto per l'elicottero dei medici
 
 # <center>CHANGELOG 1.0.4</center>
 
