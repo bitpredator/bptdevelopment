@@ -7,6 +7,8 @@
 - Patch di sicurezza applicate
 - L'ospedale è stato trasferito in un nuovo punto.
 - Inseriti due punti di acquisto per l'elicottero dei medici
+- Corretto problema del caricamento texture per l'abbigliamento dei medici
+- Aggiornamento Onesync per quanto riguarda la generazione di veicoli e oggetti di scena
 
 # <center>CHANGELOG 1.0.4</center>
 
