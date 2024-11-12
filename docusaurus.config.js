@@ -58,14 +58,14 @@ const config = {
         title: 'HOMEPAGE',
         logo: {
           alt: 'Logo',
-          src: 'https://cdn.discordapp.com/attachments/1081885857818087504/1188840550787461121/docusaurus.png?width=800&height=800',
+          src: 'https://cdn.discordapp.com/attachments/1305853825994985534/1305854758581440555/bptdevelopmentw.png?ex=67348b84&is=67333a04&hm=5387f00ea7e750306d81e028d46facec4cd1b3913b4ec02b644ee40a63c54eec&?width=800&height=800',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Information',
+            label: 'INFORMATION',
           },
 //          {to: '/blog', label: 'Blog', position: 'left'},
           {

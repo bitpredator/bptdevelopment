@@ -1,5 +1,11 @@
 # CHANGELOG SERVER FIVEM
 
+# <center>CHANGELOG 1.0.6</center>
+- Implementato il contratto di rivendita del veicolo,
+  d'ora in poi l'import potrà riciclare la carta e riutilizzarla per la creazione dei contratti.
+- Ricostruzione Job Taxi
+- Corretto problema inerente all'utilizzo della torcia  
+
 # <center>CHANGELOG 1.0.5</center>
 
 - Implementata per gli helper la funzione di gestione ticket in game,
