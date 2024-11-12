@@ -73,6 +73,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://bptdevelopment1.statuspage.io/',
+            label: 'Server Status',
+            position: 'right',
+          },
         ],
       },
       footer: {
