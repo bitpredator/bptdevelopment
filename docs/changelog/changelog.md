@@ -1,10 +1,12 @@
 # CHANGELOG SERVER FIVEM
 
-# <center>CHANGELOG 1.0.6</center>
-- Implementato il contratto di rivendita del veicolo,
-  d'ora in poi l'import potrà riciclare la carta e riutilizzarla per la creazione dei contratti.
-- Ricostruzione Job Taxi
-- Corretto problema inerente all'utilizzo della torcia  
+# <center>CHANGELOG 1.0.5 R1</center>
+  
+- Inserimento mappa Benny's (nuovo centro modifiche auto).
+- Spostato il centro modifiche presso nuova posizione.
+- Inserite nuovea targa disponobile dall'aggiornamento fivem 3095 e superiori.
+- Menu delle modifiche spostato sulla destra. 
+- Supporto in maniera nativa per la traduzine inerente alla intestazione del menu modifiche.
 
 # <center>CHANGELOG 1.0.5</center>
 
@@ -67,7 +69,7 @@
 # <center>CHANGELOG 1.0.0</center>
 
 - Corrette alcune traduzioni riguardanti le abitazioni
-- Corezioni minori per il lavoro del concessionario
+- Correzioni minori per il lavoro del concessionario
 - Applicate importanti patch di sicurezza
 - Bloccata la possibilità di creare il doppio personaggio, solo gli utenti autorizzati n'è avranno la possibilità
 - Possibiltà di utilizzare i televisori in gioco per poter guardare video Youtube e livestream twitch
