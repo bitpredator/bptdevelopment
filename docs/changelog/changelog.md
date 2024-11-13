@@ -4,7 +4,7 @@
   
 - Inserimento mappa Benny's (nuovo centro modifiche auto).
 - Spostato il centro modifiche presso nuova posizione.
-- Inserite nuovea targa disponobile dall'aggiornamento fivem 3095 e superiori.
+- Inserite nuove targhe disponobili dall'aggiornamento fivem 3095 e superiori.
 - Menu delle modifiche spostato sulla destra. 
 - Supporto in maniera nativa per la traduzine inerente alla intestazione del menu modifiche.
 
