@@ -1,5 +1,10 @@
 # CHANGELOG SERVER FIVEM
 
+# <center>CHANGELOG 1.0.5 R2</center>
+
+- Rimosse le decorazioni di Halloween
+- Meteo impostato su sereno
+
 # <center>CHANGELOG 1.0.5 R1</center>
   
 - Inserimento mappa Benny's (nuovo centro modifiche auto).
