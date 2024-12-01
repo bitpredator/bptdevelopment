@@ -1,4 +1,46 @@
-# CHANGELOG SERVER FIVEM
+# <center>CHANGELOG SERVER FIVEM</center>
+
+# <center>CHANGELOG 1.0.6</center>
+
+- Implementato il contratto di rivendita del veicolo,
+  d'ora in poi l'import potrà riciclare la carta e riutilizzarla per la creazione dei contratti.
+- Ricostruzione lavoro Taxi
+- Corretto problema inerente all'utilizzo della torcia  
+- Migliorato il codice lato client per il job taxi per una maggiore stabilità
+- Correzioni minori al menu animazione
+- Aggiornamento al [core], nuovo sistema di coordinate introdotto,
+  cio' permetterà cio' permetterà una maggiore  precisione durante la generazione di veicoli, personaggi o altri oggetti di scena.
+- Nuovo comando disponibile per tutti: "/playtime",
+  comando che vi permetterà di visualizzare il tempo trascorso in gioco.
+- Aggiornato il sistema d'interazione per la lista lavori presso il centro di collocamento.
+- Creazione di una nuova categoria per l'armeria per suddividere al meglio gli item da craftare.
+- Nuovi item disponibili in armeria.
+- Inserite 11 nuove animazioni.
+- Modificato il funzionamento della modalità fps quando si è accovacciati,
+  (ora è possibile disattivare completamente la mira per evitare un exploit in cui è possibile mirare e poi sparare in terza persona).
+- Modificata la schermata di caricamento in stile Natalizio.
+- Applicate patch di sicurezza nel codice dell' abbigliamento.
+- Corretto problema falsa godmode rilevata quando si effettuava il relog.
+- Creato un sistema d'interazione con gli NPC, ora è possibile derubarli. 
+  (attenzione gli npc sono armati possono reagire).
+- Pack auto compattato in una sola risorsa senza avere numerose risorse nel server.
+- Inserito nuovo veicolo Vip Tmax 500.
+- Inserito il veicolo Mercedes-Benz SLS AMG (riservato al vincitore dell'evento di halloween 2024).
+- Inserito un nuovo cibo temporaneo per il periodo Natalizio "Fetta di panettone".
+- Inserita nuova mappa (abitazione Playboy).
+- Inserita la possibiltà di preparare: patatine fritte, latte di mandorla,
+  salmone alla griglia presso il vanilla unicorn.
+- Diminuito il peso del grano e delle patate.
+- Limite del ping prima del kick automatico impostato a 600ms e 3warn.
+- Migliorata notevolmente la connessione al database per salvataggi piu' rapidi e precisi.
+- Caricata mappa prigione.
+- Rivisionato l'intero sistema carcerario.
+- Corretto problema inerente le modifiche per i veicoli addon.
+- sostituito l'uso di gameEventTriggeredcon una soluzione più efficiente basata su thread per gestire le morti dei giocatori.
+  L'approccio precedente si basava sull'evento CEventNetworkEntityDamage, che veniva attivato troppo spesso,
+  in particolare per eventi non letali come incidenti stradali, causando un sovraccarico di prestazioni non necessario.
+  La nuova soluzione controlla la morte del giocatore in modo deterministico in un thread,
+  attivando l'evento di morte solo quando un giocatore viene confermato morto.
 
 # <center>CHANGELOG 1.0.5 R2</center>
 
