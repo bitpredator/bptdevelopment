@@ -1,4 +1,11 @@
-# <center>CHANGELOG SERVER FIVEM</center>
+# CHANGELOG SERVER FIVEM
+
+# <center>CHANGELOG 1.0.6 R1</center>
+
+- Creata la traduzione in lingua Italiana per i contratti di rivendita dei veicoli. (esx_contract)
+- Corretta la gestione degli oggetti lanciabili e paracaduti. (es_extended)
+- Corretti problemi di esecuzione per il Codice KC-unicorn. (KC_unicorn)
+- Corretto il peso e il nome dell'item trota. (ox_inventory)
 
 # <center>CHANGELOG 1.0.6</center>
 
