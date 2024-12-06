@@ -58,7 +58,7 @@ const config = {
         title: 'HOMEPAGE',
         logo: {
           alt: 'Logo',
-          src: 'https://cdn.discordapp.com/attachments/1305853825994985534/1305854758581440555/bptdevelopmentw.png?ex=67348b84&is=67333a04&hm=5387f00ea7e750306d81e028d46facec4cd1b3913b4ec02b644ee40a63c54eec&?width=800&height=800',
+          src: 'https://media.discordapp.net/attachments/1305853825994985534/1305854758581440555/bptdevelopmentw.png?ex=67542f84&is=6752de04&hm=d672ce1382208f6b15bfe0285145f41117ebfe2a29be92d74964c2116f41baa0&=&format=webp&quality=lossless&width=1048&height=655',
         },
         items: [
           {
@@ -128,4 +128,4 @@ const config = {
     }),
 };
 
-export default config;
+module.exports = config;
