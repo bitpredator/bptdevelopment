@@ -4,7 +4,7 @@
 
 - Corretto il problema della traduzione mancante nel menu fatture dell'import exploit (bpt_importjob)
 - Introdotto un nuovo sistema di garage piu' realistici, (esx_garage + esx_realparking)
-  continueromo a supportare i vecchi Garage fino al 07/01/2025.
+  continueremo a supportare i vecchi Garage fino al 07/01/2025.
   Attenzione: Spostare tutti i veicoli dall'attuale garage a quelli nuovi, i veicoli non spostati verranno persi.
   I Garage di proprietà nelle abitazioni resteranno invariati.
 - Effettuato un grande aggiornamento di ricostruzione dell'hud per visualizzare lo stato del cibo e della salute,
