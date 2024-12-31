@@ -12,9 +12,10 @@ Nel caso non trovassi il server controlla i tuoi filtri di ricerca, spuntare le 
 - ID SERVER = 85568392932940505/101
 - MAX PLAYERS: 128
 - OPTIONAL MOD = TRUE
-- TRAFFICO NPC = FALSE
+- TRAFFICO NPC = TRUE
 
 # PACCHETTO MOD PRESENTE NEL SERVER
 Questo è un pacchetto mod opzionale che puoi usare nel server, se desideri utilizzarlo procedi al download, decompila il file zip e trascina tutti i file .scs all'interno della cartella mod di ETS2
 
-<center> [DOWNLOAD MOD](ets2_packmod.zip)</center>
+- <left> [engine+sound 1.53](engine+sound.scs)</left>
+- <left> [skoda 1.53](skoda.scs)</left>
