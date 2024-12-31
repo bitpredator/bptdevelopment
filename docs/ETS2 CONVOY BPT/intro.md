@@ -17,5 +17,5 @@ Nel caso non trovassi il server controlla i tuoi filtri di ricerca, spuntare le 
 # PACCHETTO MOD PRESENTE NEL SERVER
 Questo è un pacchetto mod opzionale che puoi usare nel server, se desideri utilizzarlo procedi al download, decompila il file zip e trascina tutti i file .scs all'interno della cartella mod di ETS2
 
-- <left> [engine+sound 1.53](engine+sound.scs)</left>
-- <left> [skoda 1.53](skoda.scs)</left>
+- <left> [engine+sound 1.53](https://github.com/bitpredator/bptdevelopment/releases/download/1.0.0/engine+sound.scs)</left>
+- <left> [skoda 1.53](https://github.com/bitpredator/bptdevelopment/releases/download/1.0.0/skoda.scs)</left>
