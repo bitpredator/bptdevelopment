@@ -1,5 +1,35 @@
 # CHANGELOG SERVER FIVEM
 
+# <center>CHANGELOG 1.0.7 </center>
+
+- Rimosso il supporto per poter prelevare i veicoli dai vecchi garage,
+  ambi i punti sono stati messi presso il sequestro; 
+  Il Punto verde servirà a mandare il veicolo al sequestro mentre il rosso a ritirarlo. (esx_garage)
+- Effettuate alcune migliorie al codice: (bpt_addonaccount).
+- Rimossi gli addobbi Natalizi. [Christmas + server.cfg]
+- impostato il meteo su sereno. (vSync)
+- Inserito un nuovo veicolo Ford Mustang MGT con suono Modificato (Veicolo Vip) - (bpt_cars + sound_cars)
+- Effettuata una pulizia del codice per il lavoro della polizia, molte parti del codice erano inutilizzate,
+  di conseguenza sono state rimosse cio' dovrebbe rendere più fluida l'esperienza di gioco. (bpt_policejob)
+- Introdotto un sistema per le riparazioni delle armi attraverso l'utilizzo dell'acciaio,
+  le riparazioni potranno essere effettuate soltanto dall'armeria. (alv_repairtable + ox_inventory)
+- Ricostruzione lavoro armeria con l'inserimento di una mappa custom,
+  ora è possibile avere i veicoli aziendali di proprietà rilasciare fatture inserendo il motivo del rilascio,
+  visualizzare i documenti d'identita e rilasciare il porto d'armi nonchè altre piccole news.
+  Inoltre è stato inserito un veicolo aziendale blindato. (bpt_cars + sound_cars + bpt_ammujob)
+- Migliorato il codice per la riproduzione di contenuti web sul gioco. (ptelevision)
+- Eseguito un miglioramento lato server per evitare il crash del codice (KC_unicorn)
+- Implementate le librerie "loader-utils", cio' ha permesso l'aggiornamento della risorsa chat. ([gameplay]/chat/)
+- Rimozione della schermata di caricamento natalizia,
+  inoltre le musiche di riproduzione sono state diminuite da 3 ad 1,
+  le freccie direzzionali destra e sinistra sono state rimosse,
+  la musica in schermata di caricamento è "NCS" questo è il primo passo affinchè si possano effettuare le live Stream. (bpt_loadscreen)
+- Creata la lingua Italiana per l'assegnazione del veicolo VIP. (esx_givevehicle)
+- Corretti alcuni errori minori inerenti alle risorse (ps-dispatch + esx_strippers)
+- La risorsa (Pnotify) non è più una dipendenza per le risorse (seatbeal e bpt_carshoroom)
+- Applicata una piccola patch di sicurezza per evitare il "client-side cross-site scripting". (esx_scoreboard)
+- Aggiornate le dipendenze per la chat vocale di gioco (pma-voice)
+   
 # <center>CHANGELOG 1.0.6 R2</center>
 
 - Corretto il problema della traduzione mancante nel menu fatture dell'import exploit (bpt_importjob)
