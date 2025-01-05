@@ -134,4 +134,3 @@ Questa definizione include:
 
 *Questo regolamento potrà variare nel tempo*
 *Data ultimo aggiornamento 05/01/2025*
-*Data ultimo aggiornamento 23/10/2024*
