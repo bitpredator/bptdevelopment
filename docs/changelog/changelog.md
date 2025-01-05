@@ -1,5 +1,11 @@
 # CHANGELOG SERVER FIVEM
 
+# CHANGELOG 1.0.7 R1
+
+- Corretto l'errore che impediva la corretta visualizzazione del logo armeria. (bpt ammujob)
+- Rimosso lo shop presso l'armeria dove i cittadini potevano acquistare in armeria,
+  si effettuano solo vedite su ordinazione previa compilazione modulo discord. (wasabi_oxshop)
+
 # <center>CHANGELOG 1.0.7 </center>
 
 - Rimosso il supporto per poter prelevare i veicoli dai vecchi garage,
