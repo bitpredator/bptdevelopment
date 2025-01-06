@@ -77,7 +77,7 @@ Questa definizione include:
   eventualmente puoi contestare il ban tramite ticket in discord.
 
 # 10. REVENGE KILL
-- Il vendicardi della persona che ti ha ucciso precedentemente è severamente vietato.
+- Il vendicarsi della persona che ti ha ucciso precedentemente è severamente vietato.
   Ricordati che quando respawni, non dovrai ricordare niente di quello che è successo.
 * La punizione di questa regola funziona nel seguente modo:
 - Emissione del ban e dei giorni di divieto a discrezione dell'amministratore,
