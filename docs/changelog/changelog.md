@@ -1,5 +1,13 @@
 # CHANGELOG SERVER FIVEM
 
+# CHANGELOG 1.0.7 R2
+
+- Aggiornato il menu amministrazione. (EasyAdmin)
+- Introdotto un sistema anti afk per evitare il farming come da nuovo regolamento. (es_extended)
+- Corretto problema inerente all'anticheat, (quando le FDO emettevano un arresto). (FIREAC)
+- Aggiornato il metodo di spinta del veicolo,
+  ora sarà possibile interagire con esso attraverso l'ausilio dell'occhio apribile con il tasto "Alt sx" (pushvehicle)
+
 # CHANGELOG 1.0.7 R1
 
 - Corretto l'errore che impediva la corretta visualizzazione del logo armeria. (bpt ammujob)
