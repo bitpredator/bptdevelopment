@@ -1,5 +1,11 @@
 # CHANGELOG SERVER FIVEM
 
+# CHANGELOG 1.0.7 R3
+- Introdotto nel menu F6 della polizia il menu carcere (bpt_policejob)
+- Romosso dal menu radiale la gestione del veicolo (esx-radialmenu)
+- Abilitati i comandi di call admin e report player per tutti gli utenti,
+  inoltre è stato inserito in sistema di monitoraggio discord per visualizzare eventuali problemi.
+
 # CHANGELOG 1.0.7 R2
 
 - Aggiornato il menu amministrazione. (EasyAdmin)
