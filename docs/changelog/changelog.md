@@ -1,6 +1,21 @@
 # CHANGELOG SERVER FIVEM
 
+# CHANGELOG 1.0.7 R4
+
+- Corretto errore di battitura, alcune traduzioni non erano utilizzate per il lavoro della polizia. (bpt_policejob)
+- Ricostruito il lavoro dei medici sistemando alcuni Bug importanti. (bpt_ambulancejob)
+- Introdotto un nuovo pianale animato per i meccanci. (bpt_mechanicjob + fivem-flatbed)
+- Applicata una patch di sicurezza sulla risorsa (ps_dispatch)
+- Introdotta una nuova arma "WEAPON_PISTOL_MK2". (bpt_crafting + es_extended)
+- Corretti problemi di crash inerenti alla risorsa. (KC_unicorn)
+- Rimosso l'utilizzo della doppia cintura di sicurezza. (bpt_hud)
+- Introdotta una nuova mappa per il casino'. (uj_casino)
+- Aggiornato il metodo di esportazione per la spinta dei veicoli. (pushvehicle)
+- Rimosso l'item panettone dal negozio. (ox_inventory)
+- Aggiornamento del menu amministrativo
+
 # CHANGELOG 1.0.7 R3
+
 - Introdotto nel menu F6 della polizia il menu carcere (bpt_policejob)
 - Romosso dal menu radiale la gestione del veicolo (esx-radialmenu)
 - Abilitati i comandi di call admin e report player per tutti gli utenti,
