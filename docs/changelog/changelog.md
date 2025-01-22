@@ -1,5 +1,12 @@
 # CHANGELOG SERVER FIVEM
 
+# CHANGELOG 1.0.7 R5
+- Rimozione del sistema Ticket in game, i bug di sviluppo potranno essere segnalati direttamente su GitHub,
+  mentre i ticket si assistenza generici possono essere richiesti in discord.
+- Introdotta la livrea in oro per alcune armi. (ox_inventory + bpt_crafting)
+- Inseriti 9 nuovi punti per l'acquisto di cibo.
+- Rimosso Cayoperico Island + il ponte di collegamento.
+
 # CHANGELOG 1.0.7 R4
 
 - Corretto errore di battitura, alcune traduzioni non erano utilizzate per il lavoro della polizia. (bpt_policejob)
