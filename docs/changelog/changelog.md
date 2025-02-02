@@ -1,5 +1,19 @@
 # CHANGELOG SERVER FIVEM
 
+# CHANGELOG 1.0.8
+- Ricostruzione telefonica, per una migliore interazione tra giocatori e lavori.
+  Il nuovo telefono introduce grandi funzionalità:
+- Sistema di copertura a celle telefoniche, come nella realtà il telefono avrà meno segnale o niente.
+- Sarà necessario attivare una promozione per poter chiamare e navigare in internet.
+- Possibilità di chiamare o inviare messaggi alle varie aziende.
+- E' presente un' app garage (attualmente non definitiva potrebbe essere rimossa).
+- App Casa per poter gestire direttamente la propria abitazione da cellulare.
+- Possibilità di pagare le fatture direttamente da telefono.
+(Il telefono è ancora in fase di sviluppo potrebbe presentare dei problemi).
+- Supporto per l'ultimo DLC di GTAV (Attenzione è necessario avere l'ultima versione di GTA)
+- Introdotto il nuovo veicolo vip charger del 69 + sound modificato.
+
+
 # CHANGELOG 1.0.7 R5
 - Rimozione del sistema Ticket in game, i bug di sviluppo potranno essere segnalati direttamente su GitHub,
   mentre i ticket di assistenza generici possono essere richiesti in discord.
