@@ -1,5 +1,11 @@
 # CHANGELOG SERVER FIVEM
 
+# CHANGELOG 1.0.8 R 1
+- Effettuate alcune traduzioni per quanto riguarda la nuova risorsa telefonica.
+- Corretto il problema del trasferimento di denaro direttamente tramite telefono, dovrà essere usato direttamente il codice iban.
+- Migliorata l'animazione di prelievo e deposito del telefono dalla tasca.
+- Disattivato il tasto F7 poichè è possibile pagare le fatture tramite telefono
+
 # CHANGELOG 1.0.8
 - Ricostruzione telefonica, per una migliore interazione tra giocatori e lavori.
   Il nuovo telefono introduce grandi funzionalità:
