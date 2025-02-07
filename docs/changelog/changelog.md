@@ -1,5 +1,23 @@
 # CHANGELOG SERVER FIVEM
 
+# CHANGELOG 1.0.8 R 2
+- Rimosso tutto il codice lato client per il sistema di fatturazione. (bpt_billing)
+- Rimosse le argomentazioni all'interno delle funzioni di "bpt_addoninventory", funzione sperimentale.
+- Per motivi di sicurezza, è stato inserito in un sisistema di whitelist, ciò permetterà di conoscere il nuovo utente.
+  Ciò Comporterà di rispettare i seguenti punti:
+  - Presenza obbligatoria nel server discord, gli utenti che non n'è fanno parte riceveranno un errore di connessione rifiutata,
+    con l'invito di entrare nel server discord. A questo punto verrà richiesta una conoscenza con il proprietario del server,
+    solo l'owner avrà il diritto di accettare o rifiutare l'inserimento in whitelist del nuovo utente dopo aver approvato i vari regolamenti,
+    sarà solo ed esclusivo compito dell' own procedere all'assegnazione dei ruoli.
+- Introdotto un sistema di coda prioritario, questo vuol dire che si entrerà nel server a secondo di un punteggio ruoli, visualizzare lo schema.
+  - "Citizen" punti = 0,
+  - "Twitch Subscriber" punti = 1000,
+  - "FIVEM SUPPORT TRIAL" punti = 2000,
+  - "FiveM Moderator", punti = 3000,
+  - "OWNER/DEVOPS", punti = 4000
+  Il fatto di avere piu' ruoli causerà una somma di essi quindi un'accesso ancora più rapido nel caso non ci fossero posti
+  (Attenzione nel caso di ban dal server discord non sarà più possibile collegarsi al server FiveM)
+
 # CHANGELOG 1.0.8 R 1
 - Effettuate alcune traduzioni per quanto riguarda la nuova risorsa telefonica.
 - Corretto il problema del trasferimento di denaro direttamente tramite telefono, dovrà essere usato direttamente il codice iban.
