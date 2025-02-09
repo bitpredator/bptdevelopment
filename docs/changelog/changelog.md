@@ -1,5 +1,13 @@
 # CHANGELOG SERVER FIVEM
 
+# CHANGELOG 1.0.8 R 3
+- Corretta la creazione dell'item zaino. (bpt_backpack)
+- Server impostato su 10 slot per sfruttare la tecnologia OneSync.
+- Corretto il problema di sincronizzazione veicolo per "bpt_bakerjob".
+- Aggiornamento della risorsa "pma-voice", risorsa che si occupa della gestione della chat vocale,
+  introdotte nuove patch di sicurezza e aggiornamenti sulle dipendenze.
+- Rimosso il "GiveWeaponToPed" una funzione che causava il ban automatico da parte dell'anticheat. (xt-robnpcs)
+
 # CHANGELOG 1.0.8 R 2
 - Rimosso tutto il codice lato client per il sistema di fatturazione. (bpt_billing)
 - Rimosse le argomentazioni all'interno delle funzioni di "bpt_addoninventory", funzione sperimentale.
