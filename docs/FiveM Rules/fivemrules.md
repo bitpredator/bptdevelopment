@@ -48,7 +48,7 @@ Esso sarà direttamente assegnato al vostro vice o alla persona con il grado pi�
 - Nel caso sappiate di essere inattivi per un certo l'asso di tempo sarà vostro compito organizzarvi con il vostro vice o chi farà le vostre veci per continuare a portare avanti la vostra attività senza recare fastidi ad altri utenti.
 - Richiedere di cambiare lavoro in maniera continua non è permesso, lo scopo del gioco è quella di portare avanti la storia del personaggio il più lungo possibile, per cambiare lavoro dovrete portare il vostro personaggio al "PERMADEATH" ovvero morte definitiva del personaggio.
 (I Benefici VIP non saranno persi ad esempio VEICOLI, RUOLO, SALTA CODA, ABITAZIONI)
-- Nel caso sia rilevata un'attività prolungata per 6 mesi o più il vostro personaggio e tutto quello ad esso collegato verrà rimosso in maniera definitiva.
+- Nel caso sia rilevata un'inattività prolungata per 6 mesi o più il vostro personaggio e tutto quello ad esso collegato verrà rimosso in maniera definitiva.
 
 # 6. Tempo di gioco
 - 30 minuti corrispondo a mezza giornata 
@@ -102,10 +102,17 @@ Questa definizione include:
   eventualmente puoi contestare il ban tramite ticket in discord.
 
 # 14. RESPAWN
-- Respawnare senza attendere l'arrivo dei medici è severamente vietato. Se sono presenti dei medici online, dovete attendere che uno arrivi a soccorrervi o semplicemente dovete rimanere li finchè il timer non termina (senza effettuare il quit dal server).
+- Respawnare senza attendere l'arrivo dei medici è severamente vietato. Se sono presenti dei medici online,
+  dovete attendere che uno arrivi a soccorrervi o semplicemente dovete rimanere li finchè il timer non termina (senza effettuare il quit dal server).
 * La punizione di questa regola funziona nel seguente modo:
 - Emissione del ban e dei giorni di divieto a discrezione dell'amministratore,
   eventualmente puoi contestare il ban tramite ticket in discord.
+
+# 15. WHITELIST
+- Gli utenti in whitelist (utenti che hanno approvato il regolamento e hanno ricevuto il ruolo citizen),
+  prenderanno come impegno di giocare esclusivamente in questo server. Questa regola non si applica agli utenti senza lavoro whitelist.
+* La punizione di questa regola funziona nel seguente modo:
+- Ban Permanente dal server FiveM, fintanto che l'utente interessato continua a giocare su altri server.
 
 # Vantaggi utenti VIP:
 - Gli utenti abbonati al canale twitch Bitpredator postranno usufruire di alcuni vantaggi, alcuni vantaggi verranno rimossi dopo lo scadere dell'abbonamento, questi vantaggi non saranno riscattabili dagli utenti che hanno ricevuto un abbonamento in regalo. Attenzione potrà essere scelto soltanto un vantaggio al mese.
@@ -134,3 +141,4 @@ Questa definizione include:
 
 *Questo regolamento potrà variare nel tempo*
 *Data ultimo aggiornamento 05/01/2025*
+*Data ultimo aggiornamento 13/02/2025*
