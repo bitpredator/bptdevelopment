@@ -1,5 +1,26 @@
 # CHANGELOG SERVER FIVEM
 
+# CHANGELOG 1.0.8 R 4
+- Possibilità di inviare una richiesta di soccorso ai medici quando si ha bisogno di assistenza,
+  attraverso l'ausilio dell'app services. (bpt_ambulancejob)
+- Eseguiti lavori di formattazione e migliorie per quanto riguarda il "CI Lint". (chat)
+  non chiedetemi cosa vuol dire non vi verrà spiegato.
+- Nuovi aggiornamenti nelle librerie di: (pma-voice)
+- Risolto problema delle variabili non utilizzate all'interno di: (bpt_backpack)
+- Intodotta nuova auto vip Mercedes-AMG Classe A con sound modificato. (bpt_cars + sound_cars)
+- Rimossa la lista giocatori sul tasto F10,
+  il controllo ping ed eventuale kick automatico in caso di connessione instabile è stata trasferita direttamento dentro (es_extended core del server)
+- L'intero pacchetto telefonico è stato riportato alla precedente versione,
+  effettuando  migliorie sotto l'aspetto applicativo services 
+- Aggiornamento del sistema Fivem per il caricamento del server. [System]
+- Rimossi i permessi amministrativi per gli helper poichè in futuro verranno implementati nel [core]. (bpt_menu)
+- Sostituito il sistema di fatturazione, la fattura ora dovrà essere emessa attraverso il comando "createbill",
+  non piu' dal menu F6. La fattura arriverà nell'inventario del giocatore piu' vicino,
+  per effettuarne il pagamento sarà soltanto necessario trascinare la fattura su usa,
+  essa scomparirà soltanto dopo averla pagata. (ars_billing, bpt_billing, ox_inventory)
+- Introdotto un nuovo cibo (trota grigliata), la preparazione è assegnata al vanilla unicorn. (ox_inventory + bpt_crafting)
+- Rimosso dalle dipendenze richieste bpt_billing, per quanto rigiarda bpt_policejob e bpt_mechanicjob
+
 # CHANGELOG 1.0.8 R 3
 - Corretta la creazione dell'item zaino. (bpt_backpack)
 - Server impostato su 10 slot per sfruttare la tecnologia OneSync.
