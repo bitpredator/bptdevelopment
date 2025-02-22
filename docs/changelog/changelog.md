@@ -1,5 +1,16 @@
 # CHANGELOG SERVER FIVEM
 
+# CHANGELOG 1.0.8 R 5
+- esx_lumberjack formattazione del codice migliorata + utilizzo delle traduzioni come file condivisi
+- bpt_dmvschool corretto errore di battitura nella traduzione italiana
+- bpt_ammujob, ballasjob, mechanicjob: rimosso il sistema di fatturazione dal menu f6
+- xt-robnpcs possibilità di utilizzare l'appistol per derubare gli NPC,
+  inoltre da ora sarà possibile trovare le bende.
+- bpt_hud effettuata una ricostruzione per mostrare le seguenti info: velocità, id giocatore,
+  integrità del veicolo (sperimentale), microfono quando si usa la chat vocale.
+- esx_vehicleshop migliorata la stabilità del codice, corretti alcuni errori segnalati dalla (CI Lint).
+- bpt_society rielaborato l'intero codice per gestione delle società, corretto il problema del riciclaggio del denaro 
+
 # CHANGELOG 1.0.8 R 4
 - Possibilità di inviare una richiesta di soccorso ai medici quando si ha bisogno di assistenza,
   attraverso l'ausilio dell'app services. (bpt_ambulancejob)
