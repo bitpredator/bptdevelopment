@@ -1,5 +1,12 @@
 # CHANGELOG SERVER FIVEM
 
+# CHANGELOG 1.0.8 R 6
+- esx_givevehicle i veicoli VIP assegnati tramite comando,
+  verranno riposti automaticamente al sequestro senza bisogno di effettuare il relog.
+- sqz_carkey modificata l'importazione delle traduzioni.
+- npwd_services corretto il problema dell'importazione del numero per chiamare i membri delle società.
+- Abilita la costruzione delle punte di diamante anche ai ballas
+
 # CHANGELOG 1.0.8 R 5
 - esx_lumberjack formattazione del codice migliorata + utilizzo delle traduzioni come file condivisi
 - bpt_dmvschool corretto errore di battitura nella traduzione italiana
