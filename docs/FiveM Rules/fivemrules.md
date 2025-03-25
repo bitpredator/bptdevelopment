@@ -43,7 +43,7 @@ E' obbligatorio utilizzare nomi che non siano di persone famose, che non conteng
 # 5. Inattività / Cambio lavoro
 Per garantire una buona esperienza di gioco e un modalità di gioco ben attiva affinchè tutti gli utenti 
 possano svolgere al meglio i propri compiti è necessario chiarire alcuni punti:
-- In caso di inattività prolungata per oltre 30 giorni a partire dall'ultimo accesso effettuato, il vostro ruolo lavorativo se di rilevanza verrà rimosso senza prevviso.
+- In caso di inattività prolungata per oltre 7 giorni a partire dall'ultimo accesso effettuato, il vostro ruolo lavorativo se di rilevanza verrà rimosso automaticamente dal sistema senza prevviso.
 Esso sarà direttamente assegnato al vostro vice o alla persona con il grado più alto.
 - Nel caso sappiate di essere inattivi per un certo l'asso di tempo sarà vostro compito organizzarvi con il vostro vice o chi farà le vostre veci per continuare a portare avanti la vostra attività senza recare fastidi ad altri utenti.
 - Richiedere di cambiare lavoro in maniera continua non è permesso, lo scopo del gioco è quella di portare avanti la storia del personaggio il più lungo possibile, per cambiare lavoro dovrete portare il vostro personaggio al "PERMADEATH" ovvero morte definitiva del personaggio.
@@ -124,21 +124,28 @@ Questa definizione include:
 - (Le mappe di abitazioni custom non sono concesse)
 - (E' necessario il rinnovo dell'abbonamento per richiedere nuove abitazioni)
 
-3) Possibilità di  richiedere il secondo personaggio senza perdere il personaggio principale.
-* Attenzione:
-- (E' Consentito avere un massimo di due personaggi)
-- (Non è richiesto il rinnovo dell'abbonamento per continuare ad avere il secondo personaggio)
-
-4) Avere un'accesso prioritario (salta coda) in caso il server sia pieno.
+3) Avere un'accesso prioritario (salta coda) in caso il server sia pieno.
 * Attenzione:
 - (E' richiesto il rinnovo dell'abbonamento)
 
-5) Ruolo personalizzato nella chat di gioco, dove verrà mostrato che siete utenti abbonati al canale
+4) Ruolo personalizzato nella chat di gioco, dove verrà mostrato che siete utenti abbonati al canale
 * Attenzione:
 - (E' richiesto il rinnovo dell'abbonamento)
 - (Questo vantaggio è incluso con l'abbonamento non è necessario richiederlo)
+  
+# SAFE ZONE
+1) Le safe zone, sono zone dove non è possibile eseguira alcune azioni:
+- Rapimenti e furti;
+- Ingaggi di qualsiasi genere;
+**Tutti gli interni delle varie attività (anche parcheggi) piu' il garage centrale e da considerarsi safe zone, 
+questa regola non si applica se l'azione inizia altrove e continua in una di queste zone**
+- Attenzione restare in safe zone per evitare la ripetuta partecipazione alle azioni è da considerarsi una violazione del regolamento.
+- Emissione del ban e dei giorni di divieto a discrezione dell'amministratore,
+  eventualmente puoi contestare il ban tramite ticket in discord.
+
 
 
 *Questo regolamento potrà variare nel tempo*
 *Data ultimo aggiornamento 05/01/2025*
 *Data ultimo aggiornamento 13/02/2025*
+*Data ultimo aggiornamento 25/03/2025*
